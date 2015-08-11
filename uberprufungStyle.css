@@ -1,0 +1,9 @@
+
+.safetyContainer {
+	border-style: solid;
+    border-color: lightgray;
+    border-width: thin;
+    padding: 10px;
+    background-color: lightyellow;
+    width: 50%;
+}
