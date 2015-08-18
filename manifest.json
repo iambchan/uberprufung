@@ -16,5 +16,6 @@
       "css": ["uberprufungStyle.css"],
       "js": ["uberprufungScript.js", "jquery-2.1.4.min.js"]
     }
-  ]
+  ],
+  "web_accessible_resources": ["loading.gif"]
 }

@@ -7,3 +7,7 @@
     background-color: lightyellow;
     width: 50%;
 }
+
+#uberLoading img {
+	width: 90px;
+}
